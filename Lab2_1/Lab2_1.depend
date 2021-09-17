@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631891703 source:d:\bo\code\giai thuat\bai tap\lab2_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<iomanip>
+	<string.h>
+
