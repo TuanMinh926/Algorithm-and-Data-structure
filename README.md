@@ -1,7 +1,7 @@
 # Algorithm-and-Data-structure
 libray-code
 + lab1_3: phanso 
-  (readfile(C) have n, printArray, search, search1/4, frequency, value_counts, writefile(C)) 
+  +(readfile(C) have n, printArray, search, search1/4, frequency, value_counts, writefile(C)) 
 + lab2_1: sinhvien 
   +(readfile(C) csv, printArraysv, searchsv, ratio_male/female, sortdtb, sortten, writefile(C))
 + lab3_1: sum2num with single Linked list
