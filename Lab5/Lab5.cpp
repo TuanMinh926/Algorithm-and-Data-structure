@@ -356,7 +356,6 @@ void remove_sv(List& l,int mssv){
         if (node->data.mssv==mssv){
             sinhvien data_sv;
             removehead(l,data_sv);
-            return ;
         }
         while(node!=NULL){
             if (node->link!=NULL){
