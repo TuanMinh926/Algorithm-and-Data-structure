@@ -16,3 +16,13 @@ libray-code
   + (Menu_update, Process_menu_update, update_sv)
   + (Menu_sort, Process_menu_sort, Sort_mssv, Sort_ten, Sort_dtb)
   + (readfile(C,array) csv, changetoList(array to List), writefile(C++), printlist, printNode, Menu_main, Process_menu_main)
++ Sort: Algorithm Sort
+  + (printArray, bubbleSort, quickSort, selectionSort, find_imin(use in selection), insertionSort)
++ TK1: sinhvien
+  + (crenode, creList, addtail)
+  + (nhapmang, nhapList, printList, printNode)
+  + (listMore1)
+  + (removehead, remove_after, remove_more1)
+  + (duplicateList)
+  + (Sort_phanso, change)
+  + (writefile)
