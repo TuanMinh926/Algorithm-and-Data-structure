@@ -26,3 +26,9 @@ libray-code
   + (duplicateList)
   + (Sort_phanso, change)
   + (writefile)
++ lab6: Stack
+  + (InitStack, InitNode, IsEmpty, Pop, Push, CalculatePosfix_plus, CalculatePosfixes)
++ lab7: Queue
+  + (InitQueue, crenode, IsEmpty, EnQueue, DeQueue, lengthQueue)
+  + (nhapmang, nhapQueue, printqueue, printNode, outItems)
+  + (Select_menu, Menu, Process_menu)
